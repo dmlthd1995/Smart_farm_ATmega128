@@ -16,7 +16,7 @@
 
 //===================================================================================================
 
-void init_serial(void) ;  //  Serial 토신포트 초기화
+void init_serial(void) ;  //  Serial 통신포트 초기화
 
 void SerialPutChar(char ch);
 void SerialPutString(char str[]);
